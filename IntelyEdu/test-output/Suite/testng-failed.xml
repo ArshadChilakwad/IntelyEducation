@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="TestCases.IntelyEdu.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="LPTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.LoginPageTest">
+        <methods>
+          <include name="invalidInputs"/>
+          <include name="teardown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.LoginPageTest -->
+    </classes>
+  </test> <!-- LPTest(failed) -->
+  <test thread-count="5" name="HPTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.HomePageTest">
+        <methods>
+          <include name="initiallize"/>
+          <include name="teardown"/>
+          <include name="validInputs"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.HomePageTest -->
+    </classes>
+  </test> <!-- HPTest(failed) -->
+  <test thread-count="5" name="TSTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.TeamSetupTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="initiallize"/>
+          <include name="teamSetUp"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.TeamSetupTest -->
+    </classes>
+  </test> <!-- TSTest(failed) -->
+  <test thread-count="5" name="PMTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.PLCMinutesTest">
+        <methods>
+          <include name="initiallize"/>
+          <include name="teardown"/>
+          <include name="newPLCMinutes"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.PLCMinutesTest -->
+    </classes>
+  </test> <!-- PMTest(failed) -->
+  <test thread-count="5" name="CSTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.ClassSetupTest">
+        <methods>
+          <include name="classSetup"/>
+          <include name="initiallize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.ClassSetupTest -->
+    </classes>
+  </test> <!-- CSTest(failed) -->
+  <test thread-count="5" name="CATest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.MySchlAchievementTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="mySclAchievement"/>
+          <include name="initiallize"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.MySchlAchievementTest -->
+    </classes>
+  </test> <!-- CATest(failed) -->
+  <test thread-count="5" name="PTTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.PLCTaskTest">
+        <methods>
+          <include name="plcTask"/>
+          <include name="initiallize"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.PLCTaskTest -->
+    </classes>
+  </test> <!-- PTTest(failed) -->
+  <test thread-count="5" name="NLPTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.NegLoginPageTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+          <include name="negativeLoginTest"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.NegLoginPageTest -->
+    </classes>
+  </test> <!-- NLPTest(failed) -->
+  <test thread-count="5" name="NCSTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.NegClassSetupTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="negativeClassSetup"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.NegClassSetupTest -->
+    </classes>
+  </test> <!-- NCSTest(failed) -->
+  <test thread-count="5" name="NTSTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.NegTeamSetupTest">
+        <methods>
+          <include name="negativeTeamSetup"/>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.NegTeamSetupTest -->
+    </classes>
+  </test> <!-- NTSTest(failed) -->
+  <test thread-count="5" name="NPMTest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.NegPLCMinutesTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="initialize"/>
+          <include name="negativePLCMinutes"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.NegPLCMinutesTest -->
+    </classes>
+  </test> <!-- NPMTest(failed) -->
+  <test thread-count="5" name="NCATest(failed)">
+    <classes>
+      <class name="TestCases.IntelyEdu.NegMySchlAchievementTest">
+        <methods>
+          <include name="initiallize"/>
+          <include name="negativeMySchlAchievement"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.IntelyEdu.NegMySchlAchievementTest -->
+    </classes>
+  </test> <!-- NCATest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

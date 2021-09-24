@@ -1,0 +1,14 @@
+TestCases\IntelyEdu\NegLoginPageTest.class
+TestCases\IntelyEdu\TeamSetupTest.class
+TestCases\IntelyEdu\HomePageTest.class
+TestCases\IntelyEdu\MySchlAchievementTest2.class
+TestCases\IntelyEdu\ClassSetupTest.class
+TestCases\IntelyEdu\LoginPageTest.class
+TestCases\IntelyEdu\PLCMinutesTest.class
+TestCases\IntelyEdu\Listeners.class
+TestCases\IntelyEdu\NegClassSetupTest.class
+TestCases\IntelyEdu\MySchlAchievementTest.class
+TestCases\IntelyEdu\NegMySchlAchievementTest.class
+TestCases\IntelyEdu\NegTeamSetupTest.class
+TestCases\IntelyEdu\PLCTaskTest.class
+TestCases\IntelyEdu\NegPLCMinutesTest.class

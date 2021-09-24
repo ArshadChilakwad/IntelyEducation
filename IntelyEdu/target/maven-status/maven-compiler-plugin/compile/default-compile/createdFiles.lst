@@ -1,0 +1,12 @@
+PageObjects\AchievementsPage.class
+PageObjects\TeamSetup.class
+PageObjects\IntelyHomePage.class
+PageObjects\MyTeams.class
+PageObjects\MembersPage.class
+PageObjects\MySchoolPage.class
+Base\base.class
+resources\ExtentReporterNG.class
+resources\ReadExcel.class
+PageObjects\LoginPage.class
+PageObjects\ClassSetup.class
+PageObjects\RolesPage.class

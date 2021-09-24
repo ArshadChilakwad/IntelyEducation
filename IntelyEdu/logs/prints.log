@@ -1,0 +1,313 @@
+14:13:49.657 [main] INFO  Base.base - --------------------------------------------------------------------
+14:13:49.661 [main] INFO  Base.base - **************DRIVER INITIALIZED IN TEAM SETUP TEST PAGE************
+14:13:49.662 [main] INFO  Base.base - --------------------------------------------------------------------
+14:13:58.650 [main] INFO  Base.base - Navigated to Intely Education Website
+14:14:07.441 [main] INFO  Base.base - Clicked on settings button
+14:14:07.815 [main] INFO  Base.base - Navigated to PLC Team Setup Page
+14:14:08.183 [main] INFO  Base.base - Entered team name
+14:14:08.631 [main] INFO  Base.base - Selected the number of days
+14:14:11.856 [main] INFO  Base.base - Selected content area from the dropdown menu
+14:14:15.078 [main] INFO  Base.base - Entered the meeting start time
+14:14:15.278 [main] INFO  Base.base - Entered the meeting end time
+14:14:16.491 [main] INFO  Base.base - Entered team norms
+14:19:26.887 [main] INFO  Base.base - --------------------------------------------------------------------
+14:19:26.894 [main] INFO  Base.base - **************DRIVER INITIALIZED IN CLASS SETUP TEST****************
+14:19:26.894 [main] INFO  Base.base - --------------------------------------------------------------------
+14:19:36.995 [main] INFO  Base.base - Successfully logged in to the website
+14:19:44.191 [main] INFO  Base.base - Navigated to the Class Setup Page
+14:19:44.412 [main] INFO  Base.base - Entered Class Name
+14:19:46.724 [main] INFO  Base.base - Selected Content Area
+14:19:46.843 [main] INFO  Base.base - Selected the subject
+14:19:47.053 [main] INFO  Base.base - Selected the Teacher
+14:19:47.409 [main] INFO  Base.base - Selected the number of days
+14:19:47.625 [main] INFO  Base.base - Entered meeting Start Time and End Time
+14:19:47.820 [main] INFO  Base.base - Clicked on Add new Class Instance
+14:19:50.486 [main] INFO  Base.base - Successfully added all the details 
+14:19:56.784 [main] INFO  Base.base - --------------------------------------------------------------------
+14:19:56.785 [main] INFO  Base.base - ****************************BROWSER CLOSED**************************
+14:19:56.785 [main] INFO  Base.base - --------------------------------------------------------------------
+16:26:10.221 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+16:26:10.256 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+16:26:10.256 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+16:27:04.982 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+16:27:04.988 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+16:27:04.989 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+16:27:32.660 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+16:27:32.681 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+16:27:32.681 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+16:43:01.699 [main] INFO  Base.base - --------------------------------------------------------------------
+16:43:01.828 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+16:43:01.828 [main] INFO  Base.base - --------------------------------------------------------------------
+16:43:12.767 [main] INFO  Base.base - Entered Username admin
+16:43:12.900 [main] INFO  Base.base - Entered Password admin123
+16:43:13.205 [main] INFO  Base.base - Clicked on submit
+16:43:18.983 [main] INFO  Base.base - Clicked on admin setting
+16:43:19.086 [main] INFO  Base.base - Clicked on logout
+16:43:19.403 [main] INFO  Base.base - Successfully logged out
+16:43:19.813 [main] INFO  Base.base - --------------------------------------------------------------------
+16:43:19.813 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+16:43:19.813 [main] INFO  Base.base - --------------------------------------------------------------------
+16:53:27.332 [main] INFO  Base.base - --------------------------------------------------------------------
+16:53:27.338 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+16:53:27.338 [main] INFO  Base.base - --------------------------------------------------------------------
+16:53:35.709 [main] INFO  Base.base - Navigated to Login Page
+16:53:36.013 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+16:53:36.014 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+16:53:36.014 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+17:16:09.710 [main] INFO  Base.base - --------------------------------------------------------------------
+17:16:09.716 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+17:16:09.716 [main] INFO  Base.base - --------------------------------------------------------------------
+17:16:21.532 [main] INFO  Base.base - Navigated to Login Page
+17:16:21.849 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+17:16:21.849 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+17:16:21.850 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+17:17:59.534 [main] INFO  Base.base - --------------------------------------------------------------------
+17:17:59.540 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+17:17:59.540 [main] INFO  Base.base - --------------------------------------------------------------------
+17:18:07.072 [main] INFO  Base.base - Navigated to Login Page
+17:18:07.185 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+17:18:07.187 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+17:18:07.187 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+17:18:09.444 [main] INFO  Base.base - --------------------------------------------------------------------
+17:18:09.444 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+17:18:09.444 [main] INFO  Base.base - --------------------------------------------------------------------
+17:18:19.536 [main] INFO  Base.base - Entered Username admin
+17:18:19.673 [main] INFO  Base.base - Entered Password admin123
+17:18:19.963 [main] INFO  Base.base - Clicked on submit
+18:32:06.369 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:06.378 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+18:32:06.379 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:13.554 [main] INFO  Base.base - Navigated to Login Page
+18:32:13.887 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+18:32:13.887 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+18:32:13.888 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+18:32:41.976 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:41.976 [main] INFO  Base.base - **************************BROWSER CLOSED****************************
+18:32:41.976 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:43.822 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:43.823 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+18:32:43.823 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:53.305 [main] INFO  Base.base - Entered Username admin
+18:32:53.441 [main] INFO  Base.base - Entered Password admin123
+18:32:53.693 [main] INFO  Base.base - Clicked on submit
+18:32:59.209 [main] INFO  Base.base - Clicked on admin setting
+18:32:59.410 [main] INFO  Base.base - Clicked on logout
+18:32:59.741 [main] INFO  Base.base - Successfully logged out
+18:32:59.842 [main] INFO  Base.base - --------------------------------------------------------------------
+18:32:59.842 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+18:32:59.842 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:01.192 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:01.192 [main] INFO  Base.base - **************DRIVER INITIALIZED IN TEAM SETUP TEST PAGE************
+18:33:01.192 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:09.250 [main] INFO  Base.base - Navigated to Intely Education Website
+18:33:15.800 [main] INFO  Base.base - Navigated to PLC Team Setup Page
+18:33:16.174 [main] INFO  Base.base - Entered team name
+18:33:16.432 [main] INFO  Base.base - Selected the number of days
+18:33:19.660 [main] INFO  Base.base - Selected content area from the dropdown menu
+18:33:22.835 [main] INFO  Base.base - Entered the meeting start time
+18:33:22.979 [main] INFO  Base.base - Entered the meeting end time
+18:33:23.503 [main] INFO  Base.base - Entered team norms
+18:33:26.053 [main] INFO  Base.base - Selected first member in the team
+18:33:26.169 [main] INFO  Base.base - Added the first member successfully
+18:33:26.448 [main] INFO  Base.base - Selected second member in the team
+18:33:26.513 [main] INFO  Base.base - Added the second member successfully
+18:33:26.747 [main] INFO  Base.base - Selected third member in the team
+18:33:26.850 [main] INFO  Base.base - Added the third member successfully
+18:33:30.017 [main] INFO  Base.base - Clicked on the next button
+18:33:30.019 [main] INFO  Base.base - Successfully navigated to the roles page
+18:33:30.139 [main] INFO  Base.base - Clicked Add new roles
+18:33:30.389 [main] INFO  Base.base - Selected checkbox for multipleusers
+18:33:35.525 [main] INFO  Base.base - All the list elements from the SelectRoles1 is collected
+18:33:35.651 [main] INFO  Base.base - Selected role for member 1
+18:33:39.577 [main] INFO  Base.base - Selected role for member 2
+18:33:40.315 [main] INFO  Base.base - Selected role for member 3
+18:33:40.808 [main] INFO  Base.base - Clicked on finish button to create team
+18:33:40.905 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:40.905 [main] INFO  Base.base - *****************************BROWSER CLOSED*************************
+18:33:40.905 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:42.272 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:42.272 [main] INFO  Base.base - ************DRIVER INITIALIZED IN PLC MINUTES TEST PAGE*************
+18:33:42.272 [main] INFO  Base.base - --------------------------------------------------------------------
+18:33:50.760 [main] INFO  Base.base - Navigated to Intely Edu website successfully 
+18:33:51.642 [main] INFO  Base.base - Loggged in into the application 
+18:33:57.915 [main] INFO  Base.base - Clicked PLC Minutes
+18:34:14.558 [main] INFO  Base.base - Clicked on Add New Minutes
+18:34:19.726 [main] INFO  Base.base - Clicked on Add/Edit New Member
+18:34:42.497 [main] INFO  Base.base - Task added successfully with description
+18:34:42.924 [main] INFO  Base.base - Owner Selected
+18:34:43.323 [main] INFO  Base.base - Achivement added successfully
+18:34:43.441 [main] INFO  Base.base - Clicked on Save 
+18:34:52.571 [main] INFO  Base.base - --------------------------------------------------------------------
+18:34:52.571 [main] INFO  Base.base - ***************************BROWSER CLOSED***************************
+18:34:52.571 [main] INFO  Base.base - --------------------------------------------------------------------
+18:34:53.991 [main] INFO  Base.base - --------------------------------------------------------------------
+18:34:53.992 [main] INFO  Base.base - **************DRIVER INITIALIZED IN CLASS SETUP TEST****************
+18:34:53.992 [main] INFO  Base.base - --------------------------------------------------------------------
+18:35:03.747 [main] INFO  Base.base - Successfully logged in to the website
+18:35:10.109 [main] INFO  Base.base - Navigated to the Class Setup Page
+18:35:10.289 [main] INFO  Base.base - Entered Class Name
+18:35:13.354 [main] INFO  Base.base - Selected Content Area
+18:35:13.463 [main] INFO  Base.base - Selected the subject
+18:35:13.657 [main] INFO  Base.base - Selected the Teacher
+18:35:13.983 [main] INFO  Base.base - Selected the number of days
+18:35:14.233 [main] INFO  Base.base - Entered meeting Start Time and End Time
+18:35:14.377 [main] INFO  Base.base - Clicked on Add new Class Instance
+18:35:17.066 [main] INFO  Base.base - Successfully added all the details 
+18:35:23.365 [main] INFO  Base.base - --------------------------------------------------------------------
+18:35:23.365 [main] INFO  Base.base - ****************************BROWSER CLOSED**************************
+18:35:23.365 [main] INFO  Base.base - --------------------------------------------------------------------
+18:35:24.739 [main] INFO  Base.base - --------------------------------------------------------------------
+18:35:24.739 [main] INFO  Base.base - ***********DRIVER INITIALIZED MY SCHOOL ACHIEVEMENT TEST************
+18:35:24.739 [main] INFO  Base.base - --------------------------------------------------------------------
+18:35:35.003 [main] INFO  Base.base - Successfully loggged in to the website
+18:35:41.607 [main] INFO  Base.base - Navigated to Create Achievement page
+18:35:58.890 [main] INFO  Base.base - Filled all the details
+18:35:58.890 [main] INFO  Base.base - Achievement created successsfully.
+18:36:05.021 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:05.021 [main] INFO  Base.base - ****************************BROWSER CLOSED**************************
+18:36:05.021 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:06.573 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:06.574 [main] INFO  Base.base - ****************DRIVER INITIALIZED PLC TASK TEST********************
+18:36:06.574 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:13.623 [main] INFO  Base.base - Successfully loggged in to the website
+18:36:49.083 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:49.084 [main] INFO  Base.base - ***********DRIVER INITIALIZED IN NEGATIVE LOGIN TEST PAGE***********
+18:36:49.084 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:56.352 [main] INFO  Base.base - Navigated to Login Page
+18:36:56.737 [main] INFO  Base.base - Username error validation: Please Enter User Name
+18:36:56.845 [main] INFO  Base.base - Password error validation: Please Enter password
+18:36:56.994 [main] INFO  Base.base - -------------------------------------------------------------------
+18:36:56.994 [main] INFO  Base.base - **************************BROWSER CLOSED***************************
+18:36:56.994 [main] INFO  Base.base - -------------------------------------------------------------------
+18:36:58.234 [main] INFO  Base.base - --------------------------------------------------------------------
+18:36:58.234 [main] INFO  Base.base - **********DRIVER INITIALIZED IN NEGATIVE CLASSS SETUP PAGE**********
+18:36:58.234 [main] INFO  Base.base - --------------------------------------------------------------------
+18:37:06.112 [main] INFO  Base.base - Navigated to Login Page
+18:37:06.981 [main] INFO  Base.base - Successfully Logged in to the Website
+18:37:23.084 [main] INFO  Base.base - Navigated to Class Setup Page
+18:37:23.273 [main] INFO  Base.base - Cannot leave class name empty: Please Enter Class Name
+18:37:23.365 [main] INFO  Base.base - Cannot leave content area empty: Please Select Content Area.
+18:37:23.458 [main] INFO  Base.base - Cannot leave select teacher empty: Please Select Teacher.
+18:37:23.551 [main] INFO  Base.base - Cannot leave select teacher empty: Please Select Days.
+18:37:23.616 [main] INFO  Base.base - Cannot leave select teacher empty: Please Select Start Time.
+18:37:23.716 [main] INFO  Base.base - Cannot leave select teacher empty: Please Select End Time.
+18:37:23.742 [main] INFO  Base.base - Verified all the error messages
+18:37:23.869 [main] INFO  Base.base - -------------------------------------------------------------------
+18:37:23.869 [main] INFO  Base.base - ****************************BROWSER CLOSED*************************
+18:37:23.869 [main] INFO  Base.base - -------------------------------------------------------------------
+18:37:25.193 [main] INFO  Base.base - --------------------------------------------------------------------
+18:37:25.193 [main] INFO  Base.base - ***********DRIVER INITIALIZED IN NEGATIVE TEAMSETUP PAGE************
+18:37:25.193 [main] INFO  Base.base - --------------------------------------------------------------------
+18:37:33.269 [main] INFO  Base.base - Navigated to Login Page
+18:37:36.174 [main] INFO  Base.base - Successfully logged in to the website
+18:37:45.576 [main] ERROR Base.base - Unable to move next without filling all the fields
+18:37:45.821 [main] INFO  Base.base - -------------------------------------------------------------------
+18:37:45.821 [main] INFO  Base.base - **************************BROWSER CLOSED***************************
+18:37:45.821 [main] INFO  Base.base - -------------------------------------------------------------------
+18:37:47.202 [main] INFO  Base.base - --------------------------------------------------------------------
+18:37:47.202 [main] INFO  Base.base - ***********DRIVER INITIALIZED IN NEGATIVE CLASSS SETUP PAGE**********
+18:37:47.202 [main] INFO  Base.base - --------------------------------------------------------------------
+18:37:56.590 [main] INFO  Base.base - Navigated to Login Page
+18:37:57.431 [main] INFO  Base.base - Successfully logged in to the website
+18:38:10.178 [main] INFO  Base.base - Navigated to PLC Minutes Page
+18:38:27.644 [main] INFO  Base.base - Cannot leave field empty: Please Select atleast one Team Leader
+18:38:32.650 [main] INFO  Base.base - Verified the eroor message
+18:38:32.784 [main] INFO  Base.base - --------------------------------------------------------------------
+18:38:32.784 [main] INFO  Base.base - *************************BROWSER CLOSED*****************************
+18:38:32.785 [main] INFO  Base.base - --------------------------------------------------------------------
+18:38:34.159 [main] INFO  Base.base - --------------------------------------------------------------------
+18:38:34.159 [main] INFO  Base.base - *******DRIVER INITIALIZED NEGATIVE MY SCHOOL ACHIEVEMENT TEST*******
+18:38:34.160 [main] INFO  Base.base - --------------------------------------------------------------------
+18:38:55.533 [main] INFO  Base.base - Alert error message validation: Please Add All Valid Fields In Achievement.
+18:38:55.627 [main] INFO  Base.base - Title error validation message: Please Enter Title
+18:38:55.704 [main] INFO  Base.base - Select teams error validation message: Please Select Team
+18:38:55.782 [main] INFO  Base.base - Description error validation message: Please Enter Description
+18:38:55.906 [main] INFO  Base.base - -------------------------------------------------------------------
+18:38:55.906 [main] INFO  Base.base - ****************************BROWSER CLOSED*************************
+18:38:55.906 [main] INFO  Base.base - -------------------------------------------------------------------
+19:23:37.873 [main] INFO  Base.base - --------------------------------------------------------------------
+19:23:37.878 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+19:23:37.878 [main] INFO  Base.base - --------------------------------------------------------------------
+19:23:46.470 [main] INFO  Base.base - Navigated to Login Page
+19:23:46.644 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+19:23:46.644 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+19:23:46.644 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+20:02:11.343 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+20:02:11.347 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+20:02:11.348 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+20:07:01.931 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+20:07:01.941 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+20:07:01.942 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+20:08:24.883 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+20:08:24.887 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+20:08:24.887 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+14:19:27.209 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+14:19:27.283 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+14:19:27.284 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+17:54:58.151 [main] INFO  Base.base - --------------------------------------------------------------------
+17:54:58.157 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+17:54:58.158 [main] INFO  Base.base - --------------------------------------------------------------------
+17:55:12.768 [main] INFO  Base.base - --------------------------------------------------------------------
+17:55:12.768 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+17:55:12.768 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:07.481 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:07.486 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+17:59:07.487 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:17.377 [main] INFO  Base.base - Entered Username admin
+17:59:17.537 [main] INFO  Base.base - Entered Password admin123
+17:59:17.806 [main] INFO  Base.base - Clicked on submit
+17:59:24.927 [main] INFO  Base.base - Clicked on admin setting
+17:59:25.070 [main] INFO  Base.base - Clicked on logout
+17:59:25.334 [main] INFO  Base.base - Successfully logged out
+17:59:25.433 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:25.433 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+17:59:25.433 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:46.271 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:46.278 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+17:59:46.278 [main] INFO  Base.base - --------------------------------------------------------------------
+17:59:56.719 [main] INFO  Base.base - Navigated to Login Page
+17:59:57.001 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+17:59:57.001 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+17:59:57.001 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+18:00:27.138 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:27.138 [main] INFO  Base.base - **************************BROWSER CLOSED****************************
+18:00:27.138 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:29.133 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:29.133 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+18:00:29.134 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:48.715 [main] INFO  Base.base - Entered Username admin
+18:00:48.856 [main] INFO  Base.base - Entered Password admin123
+18:00:49.105 [main] INFO  Base.base - Clicked on submit
+18:00:55.365 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:55.365 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+18:00:55.365 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:56.770 [main] INFO  Base.base - --------------------------------------------------------------------
+18:00:56.770 [main] INFO  Base.base - **************DRIVER INITIALIZED IN TEAM SETUP TEST PAGE************
+18:00:56.770 [main] INFO  Base.base - --------------------------------------------------------------------
+18:01:21.878 [main] INFO  Base.base - Navigated to Intely Education Website
+18:02:39.843 [main] INFO  Base.base - --------------------------------------------------------------------
+18:02:39.849 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+18:02:39.850 [main] INFO  Base.base - --------------------------------------------------------------------
+18:02:52.845 [main] INFO  Base.base - Navigated to Login Page
+18:02:53.167 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+18:02:53.168 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+18:02:53.168 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+18:03:24.964 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:24.964 [main] INFO  Base.base - **************************BROWSER CLOSED****************************
+18:03:24.964 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:27.441 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:27.441 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+18:03:27.441 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:36.560 [main] INFO  Base.base - Entered Username admin
+18:03:36.708 [main] INFO  Base.base - Entered Password admin123
+18:03:36.969 [main] INFO  Base.base - Clicked on submit
+18:03:43.946 [main] INFO  Base.base - Clicked on admin setting
+18:03:44.134 [main] INFO  Base.base - Clicked on logout
+18:03:44.539 [main] INFO  Base.base - Successfully logged out
+18:03:44.624 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:44.624 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+18:03:44.624 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:45.950 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:45.951 [main] INFO  Base.base - **************DRIVER INITIALIZED IN TEAM SETUP TEST PAGE************
+18:03:45.951 [main] INFO  Base.base - --------------------------------------------------------------------
+18:03:57.521 [main] INFO  Base.base - Navigated to Intely Education Website
