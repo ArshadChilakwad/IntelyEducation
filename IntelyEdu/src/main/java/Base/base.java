@@ -33,7 +33,7 @@ public class base {
 		String browserName = prop.getProperty("browser");
 
 		if (browserName.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", projectPath+"\\drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", projectPath+"//drivers//chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 
@@ -43,7 +43,7 @@ public class base {
 
 		else if (browserName.equals("firefox")) {
 			// firefox code
-			System.setProperty("webdriver.gecko.driver", projectPath+"\\drivers\\geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", projectPath+"//drivers//geckodriver.exe");
 			driver = new FirefoxDriver();
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
