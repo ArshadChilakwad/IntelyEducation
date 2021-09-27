@@ -15,6 +15,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class base {
 
 	public WebDriver driver;
@@ -33,7 +35,8 @@ public class base {
 		String browserName = prop.getProperty("browser");
 
 		if (browserName.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", projectPath+"//drivers//chromedriver.exe");
+			//System.setProperty("webdriver.chrome.driver", projectPath+"//drivers//chromedriver.exe");
+			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 		}
 
@@ -43,7 +46,8 @@ public class base {
 
 		else if (browserName.equals("firefox")) {
 			// firefox code
-			System.setProperty("webdriver.gecko.driver", projectPath+"//drivers//geckodriver.exe");
+			//System.setProperty("webdriver.gecko.driver", projectPath+"//drivers//geckodriver.exe");
+			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

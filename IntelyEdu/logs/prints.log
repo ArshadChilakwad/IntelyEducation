@@ -311,3 +311,56 @@
 18:03:45.951 [main] INFO  Base.base - **************DRIVER INITIALIZED IN TEAM SETUP TEST PAGE************
 18:03:45.951 [main] INFO  Base.base - --------------------------------------------------------------------
 18:03:57.521 [main] INFO  Base.base - Navigated to Intely Education Website
+20:42:41.735 [main] INFO  Base.base - --------------------------------------------------------------------
+20:42:41.759 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+20:42:41.759 [main] INFO  Base.base - --------------------------------------------------------------------
+20:42:59.754 [main] INFO  Base.base - Navigated to Login Page
+20:43:00.048 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+20:43:00.048 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+20:43:00.048 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+12:48:26.078 [main] INFO  Base.base - --------------------------------------------------------------------
+12:48:26.106 [main] INFO  Base.base - **************DRIVER INITIALIZED IN LOGIN TEST PAGE*****************
+12:48:26.106 [main] INFO  Base.base - --------------------------------------------------------------------
+12:48:32.307 [main] INFO  Base.base - Navigated to Login Page
+12:48:32.616 [main] INFO  Base.base - Login with Invalid Username and Valid Password
+12:48:32.617 [main] INFO  Base.base - Login with Valid Username and Invalid Password
+12:48:32.617 [main] INFO  Base.base - Login with Invalid Username and Invalid Password
+12:49:00.798 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:00.798 [main] INFO  Base.base - **************************BROWSER CLOSED****************************
+12:49:00.798 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:02.990 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:02.990 [main] INFO  Base.base - ****************DRIVER INITIALIZED IN HOME TEST PAGE*****************
+12:49:02.991 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:09.420 [main] INFO  Base.base - Entered Username admin
+12:49:09.559 [main] INFO  Base.base - Entered Password admin123
+12:49:09.817 [main] INFO  Base.base - Clicked on submit
+12:49:16.139 [main] INFO  Base.base - Clicked on admin setting
+12:49:16.296 [main] INFO  Base.base - Clicked on logout
+12:49:16.613 [main] INFO  Base.base - Successfully logged out
+12:49:16.743 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:16.743 [main] INFO  Base.base - *************************BROWSER IS CLOSED**************************
+12:49:16.743 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:18.162 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:18.163 [main] INFO  Base.base - **************DRIVER INITIALIZED IN TEAM SETUP TEST PAGE************
+12:49:18.163 [main] INFO  Base.base - --------------------------------------------------------------------
+12:49:25.406 [main] INFO  Base.base - Navigated to Intely Education Website
+12:49:31.953 [main] INFO  Base.base - Navigated to PLC Team Setup Page
+12:49:32.318 [main] INFO  Base.base - Entered team name
+12:49:32.591 [main] INFO  Base.base - Selected the number of days
+12:49:35.911 [main] INFO  Base.base - Selected content area from the dropdown menu
+12:49:39.067 [main] INFO  Base.base - Entered the meeting start time
+12:49:39.217 [main] INFO  Base.base - Entered the meeting end time
+12:49:39.785 [main] INFO  Base.base - Entered team norms
+12:49:42.272 [main] INFO  Base.base - Selected first member in the team
+12:49:42.388 [main] INFO  Base.base - Added the first member successfully
+12:49:42.646 [main] INFO  Base.base - Selected second member in the team
+12:49:42.710 [main] INFO  Base.base - Added the second member successfully
+12:49:42.975 [main] INFO  Base.base - Selected third member in the team
+12:49:43.074 [main] INFO  Base.base - Added the third member successfully
+12:49:46.251 [main] INFO  Base.base - Clicked on the next button
+12:49:46.252 [main] INFO  Base.base - Successfully navigated to the roles page
+12:49:46.372 [main] INFO  Base.base - Clicked Add new roles
+12:49:46.595 [main] INFO  Base.base - Selected checkbox for multipleusers
+12:49:51.406 [main] INFO  Base.base - All the list elements from the SelectRoles1 is collected
+12:49:51.551 [main] INFO  Base.base - Selected role for member 1
+12:49:55.440 [main] INFO  Base.base - Selected role for member 2
