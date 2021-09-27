@@ -41,7 +41,7 @@ public class base {
 		}
 
 		else if (browserName == "IE") {
-			// IE code
+			// IE code hh
 		}
 
 		else if (browserName.equals("firefox")) {
